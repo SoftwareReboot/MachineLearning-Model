@@ -50,25 +50,5 @@ The dataset Car_Purchasing_Data.csv contains customer details such as:
 
 🚗 Car Purchase Amount (target variable)
 
+
 ____________________________________________________________________________________________________________________________________________________________________________________
-🗂️ Dataset
-
-The dataset Car_Purchasing_Data.csv contains customer details such as:
-
-👤 Customer Name
-
-📧 Email
-
-🌍 Country
-
-🚻 Gender
-
-🎂 Age
-
-💰 Annual Salary
-
-💳 Credit Card Debt
-
-🏦 Net Worth
-
-🚗 Car Purchase Amount (target variable)
