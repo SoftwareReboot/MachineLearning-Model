@@ -19,8 +19,6 @@ Train regression models using customer data
 
 Predict Car Purchase Amount (target variable)
 
-Evaluate performance with metrics like F1 Score
-
 📈 Visualization
 
 Pairplots for feature relationships
