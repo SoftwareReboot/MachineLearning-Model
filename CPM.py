@@ -42,5 +42,14 @@ plt.title("Correlation Heatmap of Numeric Features in Car_Purchasing_Data", font
 plt.show()
 
 # perform Exploratory Data Analysis using seaborn pairplot
-sns.pairplot(df)
+sns.pairplot(numeric_df)
+plt.show()
+
+
+# Relational plot (Annual Salary vs Car Purchase Amount, grouped by Gender)
+sns.relplot(x="Annual Salary", y="Car Purchase Amount", hue='Gender', data=df)
+plt.show()
+
+# Histogram of Car Purchase Amount
+sns.histplot(df['Car Purchase Amount'], kde=True)
 plt.show()
