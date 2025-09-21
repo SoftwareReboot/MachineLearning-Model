@@ -1,4 +1,5 @@
 🚗 MachineLearning-Model
+
 A machine learning project that predicts how much a customer is willing to spend on a new car.
 This prediction can help companies design targeted marketing strategies based on customer profiles and improve overall decision-making.
 ____________________________________________________________________________________________________________________________________________________________________________________
