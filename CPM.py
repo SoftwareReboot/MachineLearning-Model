@@ -14,13 +14,13 @@ print(df)
 
 
 # you may use the head() to view only the top five rows of the dataframe
-print("First 5 rows of the dataset:")
+print("First 5 rows of the dataset:\n")
 print(df.head())
 
 ##### Explore the data set #####
 print(df.isnull().sum()) # summary of missing values ni
 
-print("this is the summary of information in the data set: ")
+print("\nthis is the summary of information in the data set: ")
 print(df.info()) # shows data set summary
 
 ## Viewing Basic Statistical Values(mean, meadian and quartiles) of the given dataset
@@ -38,7 +38,7 @@ plt.figure(figsize=(12,10))
 sns.heatmap(correlation_matrix, annot=True, cmap="coolwarm", linewidths=0.5)
 plt.xticks(rotation=45)
 plt.yticks(rotation=0)
-plt.title("Correlation Heatmap of Numeric Features in Car_Purchasing_Data", fontsize=16)
+plt.title("\nCorrelation Heatmap of Numeric Features in Car_Purchasing_Data", fontsize=16)
 plt.show()
 
 # perform Exploratory Data Analysis using seaborn pairplot
