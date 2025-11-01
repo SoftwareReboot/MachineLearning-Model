@@ -22,9 +22,9 @@ The goal is to create an organized and educational collection of ML projects tha
 
 | Model | File | Description | Techniques |
 |--------|------|--------------|-------------|
-| Car Purchasing Model** | `Car Purchasing Model.ipynb` | Predicts how much a customer is willing to spend on a new car using demographic and behavioral data. | Linear Regression, Decision Tree, Feature Scaling |
-| Decision Tree Model** | `Decision Tree.ipynb` | Implementation and improvement of a Decision Tree classifier/regressor using datasets such as customer and loan data. | Decision Tree Classifier, Data Splitting, Entropy & Gini |
-| Customer Profile Model** | `Customer.csv`, `loan.csv` | Predicts customer behavior patterns and financial decisions using supervised learning techniques. | Classification, Regression |
+| Car Purchasing Model | `Car Purchasing Model.ipynb` | Predicts how much a customer is willing to spend on a new car using demographic and behavioral data. | Linear Regression, Decision Tree, Feature Scaling |
+| Decision Tree Model | `Decision Tree.ipynb` | Implementation and improvement of a Decision Tree classifier/regressor using datasets such as customer and loan data. | Decision Tree Classifier, Data Splitting, Entropy & Gini |
+| Customer Profile Model | `Customer.csv`, `loan.csv` | Predicts customer behavior patterns and financial decisions using supervised learning techniques. | Classification, Regression |
 
 ---
 
