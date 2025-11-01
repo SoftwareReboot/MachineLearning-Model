@@ -1,7 +1,7 @@
-# 🤖 MachineLearning-Model
+ 🤖 MachineLearning-Model
 
 A compilation of machine learning models developed as part of our **university coursework and research projects**.  
-This repository showcases multiple predictive models exploring various algorithms and techniques across different datasets and problem domains.
+This repository showcases predictive and classification models exploring various algorithms and techniques across different datasets and problem domains.
 
 ---
 
