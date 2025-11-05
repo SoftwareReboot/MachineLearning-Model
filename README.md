@@ -77,14 +77,14 @@ The goal is to create an organized and educational collection of ML projects tha
 
 | Name | GitHub Handle |
 |------|----------------|
-| Joshua Miguel Jamisola** | [@SoftwareReboot](https://github.com/SoftwareReboot) |
+| Joshua Miguel Jamisola | [@SoftwareReboot](https://github.com/SoftwareReboot) |
 | McLovin | [@jamardines](https://github.com/jamardines) |
 
 ---
 
 📄 License
 
-This project is open-source and available for **educational and research purposes**.  
+This project is open-source and available for **educational and research purposes.  
 Feel free to fork, learn, and contribute!
 
 ---
