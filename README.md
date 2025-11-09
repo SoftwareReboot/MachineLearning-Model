@@ -1,13 +1,13 @@
  🤖 MachineLearning-Model
 
-A compilation of machine learning models developed as part of our **university coursework and research projects**.  
+A compilation of machine learning models developed as part of our university coursework and research projects.  
 This repository showcases predictive and classification models exploring various algorithms and techniques across different datasets and problem domains.
 
 ---
 
  📚 Overview
 
-This project demonstrates **hands-on implementations** of key machine learning concepts learned throughout our studies.  
+This project demonstrates hands-on implementations of key machine learning concepts learned throughout our studies.  
 Each notebook or script represents a distinct project that focuses on:
 - Data preprocessing  
 - Feature engineering  
@@ -84,7 +84,7 @@ The goal is to create an organized and educational collection of ML projects tha
 
 📄 License
 
-This project is open-source and available for **educational and research purposes.  
+This project is open-source and available for educational and research purposes.  
 Feel free to fork, learn, and contribute!
 
 ---
