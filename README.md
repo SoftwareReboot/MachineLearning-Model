@@ -35,8 +35,8 @@ The goal is to create an organized and educational collection of ML projects tha
  🚗 Car Purchasing Model
 - Goal: Predict customer spending on new cars
 - Algorithm: Linear Regression
-- **Features:** Age, annual salary, credit card debt, net worth
-- **Output:** Predicted purchase amount in dollars
+- Features: Age, annual salary, credit card debt, net worth
+- Output: Predicted purchase amount in dollars
 
 🌳 Decision Tree Model
 - Goal: Classification and regression with interpretable tree structure
@@ -53,25 +53,25 @@ The goal is to create an organized and educational collection of ML projects tha
   - Hyperparameter tuning with GridSearchCV
 - Performance: Optimized accuracy with minimal overfitting
 
-### 👤 Gender Classification (Linear SVM)
-- **Goal:** Real-time gender detection from webcam feed
-- **Accuracy:** 85-90% with diverse training data
-- **Features:**
+ 👤 Gender Classification (Linear SVM)
+- Goal: Real-time gender detection from webcam feed
+- Accuracy: 85-90% with diverse training data
+- Features:
   - Multi-person training support (5+ people recommended)
   - Live face detection with Haar Cascades
   - Confidence scores and margin visualization
   - Model persistence (save/load)
   - Color-coded predictions (Blue=Male, Pink=Female)
-- **Technical Details:**
+- Technical Details:
   - 64x64 grayscale images = 4,096 features per face
   - Linear kernel SVM with C=1.0
   - Support Vector analysis included
   - StandardScaler for feature normalization
 
  😊 Expression Classification (Linear SVM)
-- **Goal: Detect facial expressions (Neutral vs Smiling)
-- **Accuracy: 90%+ on training subject, 70-80% on new people
-- **Features:
+- Goal: Detect facial expressions (Neutral vs Smiling)
+- Accuracy: 90%+ on training subject, 70-80% on new people
+- Features:
   - Webcam-based data collection
   - Real-time expression detection
   - Decision boundary visualization
