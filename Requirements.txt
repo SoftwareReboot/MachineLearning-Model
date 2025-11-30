@@ -4,5 +4,6 @@ scikit-learn
 matplotlib
 seaborn
 graphviz
+dtreeviz
 opencv-python
 xgboost
